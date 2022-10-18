@@ -2,15 +2,16 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Nihil a ipsa ipsa totam et pariatur sed. Id ut laudantium est veritatis quas reprehenderit ut molestiae. Necessitatibus saepe iure sed veniam illum accusamus laborum labore. In illum laudantium optio in harum repudiandae inventore voluptatum.
+description: I am a biologist interested in the study of soil ecology and biogeochemistry. Currently an intern with STRI-Panama at SWELTR, the soil warming project on Barro Colorado Island.
+
 image_left: true
 images:
 - img/mariams.jpeg 
-show_action_link: true
-show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+show_action_link: false
+show_social_links: false
+subtitle: Nice to meet you!
 text_align_left: false
-title: Maria Montero Sanchez
+title: Hi, I'm  Maria 
 type: home
 ---
 
