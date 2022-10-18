@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reaserch projects on Maria Montero Sanchez</title>
+    <link>https://mariamonterosanchez.netlify.app/project/</link>
+    <description>Recent content in Reaserch projects on Maria Montero Sanchez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mariamonterosanchez.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microbial diversity declines in warmed tropical soil and respiration rise exceed predictions as communities adapt</title>
+      <link>https://mariamonterosanchez.netlify.app/project/microbes/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mariamonterosanchez.netlify.app/project/microbes/</guid>
+      <description>Press release english and spanish version
+https://www.prensa.com/vivir/suelos-tropicales-son-altamente-sensibles-al-calentamiento-global/
+https://www.leeds.ac.uk/news-science/news/article/5145/tropical-soils-highly-sensitive-to-global-warming</description>
+    </item>
+    
+    <item>
+      <title>Decomposition in lowland-tropical warmed soil</title>
+      <link>https://mariamonterosanchez.netlify.app/project/decomposition/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mariamonterosanchez.netlify.app/project/decomposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acclimation of soil respiration to warming in a lowland tropical forest</title>
+      <link>https://mariamonterosanchez.netlify.app/project/acclimation/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mariamonterosanchez.netlify.app/project/acclimation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

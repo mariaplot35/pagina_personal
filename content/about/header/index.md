@@ -3,10 +3,10 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Maria Montero Sanchez. Nice to meet you.
+  About me
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :costa_rica: :panama: 
+I'm from :costa_rica: living in :panama: 
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+
